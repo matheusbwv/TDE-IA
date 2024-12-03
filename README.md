@@ -19,8 +19,8 @@ Um indivíduo no contexto do algoritmo genético representa um plano de estudo, 
 
 # Estrutura do Cromossomo
  - Cada gene no cromossomo é representado por um número binário:
-  - 1 (📚): O tópico será incluído no plano de estudo.
-  - 0 (🤓): O tópico será ignorado.
+  - 1 (📚): para matérias que vão ser estudadas.
+  - 0 (🤓): para que não vão ser estudadas.
 
 ## Como funciona a função de aptidão ?
 
